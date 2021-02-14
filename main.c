@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-    printf("Hello world");
-    printf("%d",100);
+    printf("Hello world\n");
+    printf("おはようございます！\n");
     return 0;
 }
